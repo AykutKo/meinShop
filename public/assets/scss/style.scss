@@ -1,0 +1,84 @@
+
+/*
+--------------------------
+	Css Indexing
+--------------------------
+	Table of Css Content
+	------- *** -------
+
+--------------------------
+** @typography
+--------------------------
+** Global style
+--------------------------
+** Preloader
+--------------------------
+** breadcrumb-area
+--------------------------
+** Normalize
+--------------------------
+** Main Menu Area Start
+--------------------------
+** Hero Area Start
+--------------------------
+** About Area Start
+--------------------------
+** We are best Area Start
+--------------------------
+** Feature Area Start
+--------------------------
+** Video Area Start
+--------------------------
+** Deal Of the Week Start
+--------------------------
+** Pricing Area Start
+--------------------------
+** Testimonial Area Start
+--------------------------
+** FAQ Area Start
+--------------------------
+** Contact Area Start
+--------------------------
+** Footer Area Start
+--------------------------
+** Index-2 Area Start
+--------------------------
+
+
+
+
+*/
+@import "main/variables";
+@import "main/mixins";
+@import "main/global";
+@import "main/normalize";
+
+//=Section scss
+
+@import "sections/main-menu";
+@import "sections/hero-area";
+@import "sections/about";
+@import "sections/whaybest";
+@import "sections/feature";
+@import "sections/choose-us";
+@import "sections/dealof-week";
+@import "sections/pricing";
+@import "sections/testimonial";
+@import "sections/faq";
+@import "sections/contact";
+@import "sections/compare";
+@import "sections/subscribe";
+@import "sections/footer";
+
+//=Pages scss
+
+@import "pages/index2";
+@import "pages/blog";
+@import "pages/other";
+@import "pages/index5";
+@import "pages/home7";
+@import "pages/home9";
+
+
+
+
